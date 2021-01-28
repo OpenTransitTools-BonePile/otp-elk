@@ -1,6 +1,4 @@
-
-###What Analytics to Capture from server logs and trip requests.
-
+### What Analytics to Capture from server logs and trip requests.
 
 1. Origin/Destination (O/D) studies:
    - what common places do people travel from or to (so individual O and D)
